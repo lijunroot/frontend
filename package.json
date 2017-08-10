@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Front end samples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijunroot/frontend.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "JS",
+    "AngularJS"
+  ],
+  "author": "Lijun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijunroot/frontend/issues"
+  },
+  "homepage": "https://github.com/lijunroot/frontend#readme"
+}
